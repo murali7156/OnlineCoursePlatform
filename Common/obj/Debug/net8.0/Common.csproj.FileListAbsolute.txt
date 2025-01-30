@@ -1,0 +1,12 @@
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\bin\Debug\net8.0\Common.deps.json
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\bin\Debug\net8.0\Common.dll
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\bin\Debug\net8.0\Common.pdb
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\Common.dll
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\Common.pdb
+C:\Prep\OnlineCoursePlatform\OnlineCoursePlatform\Common\obj\Debug\net8.0\ref\Common.dll
